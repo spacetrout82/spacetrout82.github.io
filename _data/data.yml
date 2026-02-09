@@ -183,45 +183,41 @@ experiences:
       - Adobe Photoshop
       - Illustrator
       - High Volume Printing
-      
+
 skills:
-  - category: Backend
+  - category: Programming Languages
     tools:
-      - name: Java
-      - name: Python
-      - name: Shell
-      - name: JavaScript
-      - name: HTML5
-      - name: CSS3
-      - name: Sass/LESS
-      - name: PHP
-      - name: NodeJS
-      - name: C++
-      - name: C#
-      - name: Ruby
-  - category: Tools and Libraries
+      - Java
+      - JavaScript / TypeScript  # add TypeScript if you have any exposure — huge right now
+      - Python
+      - PHP
+      - Node.js
+      - C#
+      - HTML5 / CSS3 / Sass
+
+  - category: Backend & Frameworks
     tools:
-      - name: Git
-      - name: Vim
-      - name: Netbeans
-      - name: PyCharm 
-      - name: Visual Studio Code
-      - name: Android Studio
-      - name: Docker
-      - name: Kubernetes
-      - name: Jira, Maven, jUnit
-      - name: Django
-      - name: Adobe Photoshop
-      - name: WordPress
-      - name: Drupal
-      - name: Joomla!
-  - category: others
+      - Django
+      - REST / GraphQL APIs
+      - Spring Boot  # add if you use it with Java
+      - Microservices
+      - SQL / PostgreSQL / MySQL
+      - Graph Databases
+
+  - category: DevOps & Cloud Tools
     tools:
+      - Docker
+      - Kubernetes
+      - AWS
+      - Git
+      - CI/CD Pipelines
       - Linux Systems
-      - Windows OS & Mac OS
+      - Shell Scripting
+
+  - category: Methodologies & Practices
+    tools:
+      - Agile / Scrum
+      - TDD / jUnit
+      - SOLID Principles
       - Code Review
-      - TDD
-      - CI/CD
-      - DevOps
-      - Agile Methodologies
-      - S.O.L.I.D Design Principals
+      - DevOps Practices
