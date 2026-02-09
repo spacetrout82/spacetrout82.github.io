@@ -1,0 +1,26 @@
+title: Mark Arsenault
+tagline: Full-Stack Developer
+description: I have many skills
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://spacetrout82.github.io" 
+
+author: Mark Arsenault
+
+twitter:
+  username: alientrout
+  card: summary
+
+social:
+  links:
+    # - https://twitter.com/fculpo
+    # - https://www.linkedin.com/in/fabienculpo
+    # - https://github.com/fculpo
+
+google_site_verification: 
+
+theme_skin: gray # gray blue turquoise green berry red
+remote_theme: spacetrout82/jekyll-theme-pillar
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag

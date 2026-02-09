@@ -1,0 +1,227 @@
+
+header:
+  avatar: profile.jpg 
+  email: markarsenault883@gmail.com
+  website: https://spacetrout82.github.com/
+  phone: 289.969.32**
+# linkedin: spacetrout82
+  github: spacetrout82
+ 
+languages:
+  - idiom: English
+    level: Native
+
+interests:
+  - name: Musician
+    link:
+  - name: Astrophotography
+    link: 
+  - name: Pentesting
+    link:
+
+summary: |
+  Hi, I'm Mark. I live and work out of St. Catharines Ontario. This page has a basic 
+  snapshot of my work history, skills, and some general information on what I do. Currently I
+  have been doing freelance work, as well as contributing to a number of OSS (Open-Source) 
+  projects. <br><br>
+  
+  15+ years of experience in design, development, testing, implementation and maintenance of 
+  web applications, web services and APIs using a variety of technologies. Extensive knowledge 
+  in Agile, Scrum, and TDD methodologies. I pride myself on my communication and strong 
+  relationship building skills. 
+
+education:
+  - degree: Web & Graphic Design
+    university: Computer Training Institute
+    time: 2000 - 2001 
+    details: |
+      Obtained a diploma in Web Development & Graphic Design with grades
+      above 90% at the time of graduation. Subjects covered a wide range
+      of skill sets and applications.
+        - Graduated with honors
+        - Obtained fundamentals
+
+experiences:
+  - role: Full Stack Developer
+    time: 2019 - Present
+    company: Self-Employed Freelancer
+    details: |
+      Working as a freelancer has allowed me to pursue a wide range of skills in a variety of 
+      different markets. It’s also given me the freedom to strengthen my versatility in different
+      areas of design and development. These benefits are balanced by high volumes of responsibility,
+      and self-management. Freelancing, like many things, will give you back what you put into it.
+
+        - Client facing interaction
+        - Versatile full stack developing
+        - Time management, leadership, and responsibility
+
+  - role: Software Engineer
+    time: 2014 - 2019
+    company: Lotlinx Inc.
+    details: |
+      Developed and maintained systems to manage ad platform integrations, inventory processing and 
+      publishing, and reporting APIs. A CD/CI, agile work environment that provides amazing product 
+      in the automobile marketing industry.
+
+    technologies:
+      - Web Application Stack
+      - Java
+      - jUnit
+      - JSP & Tomcat
+      - Shell Scripting
+      - PHP
+      - AWS
+      - SQL
+      - Graph Database
+      - Microservices
+      - DevOps
+
+  - role: Web Developer
+    time: 2015 - 2016
+    company: FPM3
+    details: |
+      Designed and developed web applications and user interface for various clients. Projects ranged
+      from setting the backend of e-commerce websites using Magento, to fixing site-related design 
+      problems and took the initiative to implement new features based on feedback from users. 
+
+  - role: Web Developer
+    time: 2010 - 2012
+    company: VERB Interactive
+    details: |
+      Worked here as a Web Developer, Graphic Designer, with a lot of emphasis on front end design, and
+      marketing Call-To-Actions. VERB is a marketing agency who's primary focus is the tourism, and 
+      hospitality industry. Some notable clients include Pebble Beach, and Nassau Paradise Island.
+    technologies:
+      - PHP
+      - JavaScript
+      - MySQL
+      - C#
+      - Photoshop
+      - Illustrator
+      - Flash
+      - Wordpress
+      - Drupal
+      - Joomla!
+      - HTML
+      - CSS
+      - SEO
+      - DevOps
+
+  - role: Web Developer
+    time: 2009 - 2010
+    company: Compare Cellular
+    details: |
+      Was part of a team that developed and maintained a comparative cellular rates service & APIs.
+      Our two main clients were (but not exclusively) Best Buy & Futureshop. Followed strict standards
+      and managed code base.
+    technologies:
+      - C#
+      - PHP 
+      - Subversion
+      - MySQL
+      - PostgreSQL
+
+  - role: Software Developer
+    time: 2007-2008
+    company: Ingenious Software
+    details: |
+      Wrote functional specifications for enhancements to a unified Management System for volunteer,
+      composite, and full-time Fire Departments. Was also involved in migrating the pre-existing
+      codebase into C#, and MySQL.
+    technologies:
+      - C#
+      - PHP 
+      - Subversion
+      - MySQL
+      - PostgreSQL
+      - Linux
+
+  - role: Programmer & Junior DBA
+    time: 2006 - 2007
+    company: Tarasoft
+    details: |
+      Worked as a developer on Tarasoft’s Matrix product; then became one of the two MySQL database 
+      administrators. I was initially brought on to help migrate to MySQL, then signed a new contract
+      for an additional year.
+    technologies:
+      - C#
+      - PHP 
+      - Subversion
+      - MySQL
+      - PostgreSQL
+      - Linux
+
+  - role: Full Stack Developer 
+    time: 2001 - 2006
+    company: Stenek Corporation
+    details: |
+      I was hired by Stenek to innovate and develope a business-to-business web solution for their 
+      wholesale distribution division. The project was a huge success that revolutionized the company. 
+      Stenek.com handled millions in sales from thousands of businesses in Atlantic Canada. All 
+      infrastructure (Web, Email, Data, and Application Servers) was in house, and my responsibility.
+
+      Stenek had an office supply retail division, and a print/copy centre division as well. I managed,
+      and worked at the printing division during my time at Stenek Corporation.
+    achievements:
+      desc: |
+        My first professional outing as a developer/coder; this job required constant learning, effective 
+        communication, and multi-tasking. I was the ONLY IT professional that worked at this company up 
+        until it's acquisition by logistics giant TNG in 2010.<br><br>
+
+        The experience I gained at Stenek was invaluable. 
+    technologies:
+      - ASP/VBScript
+      - ASP.NET
+      - JavaScript
+      - C#.NET
+      - HTML
+      - CSS
+      - MySQL
+      - IIS
+      - Windows Servers
+      - Blackberry Web Apps
+      - Adobe Photoshop
+      - Illustrator
+      - High Volume Printing
+      
+skills:
+  - category: Backend
+    tools:
+      - name: Java
+      - name: Python
+      - name: Shell
+      - name: JavaScript
+      - name: HTML5
+      - name: CSS3
+      - name: Sass/LESS
+      - name: PHP
+      - name: NodeJS
+      - name: C++
+      - name: C#
+      - name: Ruby
+  - category: Tools and Libraries
+    tools:
+      - name: Git
+      - name: Vim
+      - name: Netbeans
+      - name: PyCharm 
+      - name: Visual Studio Code
+      - name: Android Studio
+      - name: Docker
+      - name: Kubernetes
+      - name: Jira, Maven, jUnit
+      - name: Django
+      - name: Adobe Photoshop
+      - name: WordPress
+      - name: Drupal
+      - name: Joomla!
+  - category: others
+    tools:
+      - Linux Systems
+      - Windows OS & Mac OS
+      - Code Review
+      - TDD
+      - CI/CD
+      - DevOps
+      - Agile Methodologies
+      - S.O.L.I.D Design Principals
