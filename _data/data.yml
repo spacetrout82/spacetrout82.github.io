@@ -188,7 +188,7 @@ skills:
   - category: Programming Languages
     tools:
       - name: Java
-        level: Expert
+        level: 95%
       - name: JavaScript
       - name: TypeScript   # add only if you have real exposure – remove if not
       - name: Python
