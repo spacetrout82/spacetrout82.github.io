@@ -187,37 +187,38 @@ experiences:
 skills:
   - category: Programming Languages
     tools:
-      - Java
-      - JavaScript / TypeScript  # add TypeScript if you have any exposure — huge right now
-      - Python
-      - PHP
-      - Node.js
-      - C#
-      - HTML5 / CSS3 / Sass
+      - name: Java
+      - name: JavaScript
+      - name: TypeScript   # add only if you have real exposure – remove if not
+      - name: Python
+      - name: PHP
+      - name: Node.js
+      - name: C#
+      - name: HTML5 / CSS3 / Sass
 
   - category: Backend & Frameworks
     tools:
-      - Django
-      - REST / GraphQL APIs
-      - Spring Boot  # add if you use it with Java
-      - Microservices
-      - SQL / PostgreSQL / MySQL
-      - Graph Databases
+      - name: Django
+      - name: REST / GraphQL APIs
+      - name: Spring Boot    # add only if relevant to your Java work
+      - name: Microservices
+      - name: SQL / PostgreSQL / MySQL
+      - name: Graph Databases
 
-  - category: DevOps & Cloud Tools
+  - category: DevOps & Cloud
     tools:
-      - Docker
-      - Kubernetes
-      - AWS
-      - Git
-      - CI/CD Pipelines
-      - Linux Systems
-      - Shell Scripting
+      - name: Docker
+      - name: Kubernetes
+      - name: AWS
+      - name: Git
+      - name: CI/CD Pipelines
+      - name: Linux Systems
+      - name: Shell Scripting
 
   - category: Methodologies & Practices
     tools:
-      - Agile / Scrum
-      - TDD / jUnit
-      - SOLID Principles
-      - Code Review
-      - DevOps Practices
+      - name: Agile / Scrum
+      - name: TDD / jUnit
+      - name: SOLID Principles
+      - name: Code Review
+      - name: DevOps Practices
