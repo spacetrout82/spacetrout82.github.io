@@ -185,41 +185,88 @@ experiences:
       - High Volume Printing
 
 skills:
-  - category: Programming Languages
+  - category: Core Programming Languages
     tools:
-      - name: Java
-        level: 95%
-      - name: JavaScript
-      - name: TypeScript   # add only if you have real exposure – remove if not
+      - name: JavaScript / TypeScript
       - name: Python
-      - name: PHP
-      - name: Node.js
-      - name: C#
-      - name: HTML5 / CSS3 / Sass
+      - name: Java
+      - name: Go
+      - name: Rust (increasingly valued for performance-critical work)
+      - name: C# /.NET (especially if enterprise or game-related)
 
-  - category: Backend & Frameworks
+  - category: Frontend
     tools:
-      - name: Django
-      - name: REST / GraphQL APIs
-      - name: Spring Boot    # add only if relevant to your Java work
-      - name: Microservices
-      - name: SQL / PostgreSQL / MySQL
-      - name: Graph Databases
+      - name: React / Next.js
+      - name: Tailwind CSS
+      - name: TypeScript
+      - name: HTML5 / CSS3
+      - name: React Query / TanStack Query or SWR
+      - name: Zustand / Redux Toolkit / Jotai (modern state management)
 
-  - category: DevOps & Cloud
+  - category: Backend & APIs
     tools:
+      - name: Node.js (Express / NestJS / Fastify)
+      - name: Python – FastAPI or Django
+      - name: Java – Spring Boot
+      - name: Go – Gin / Echo / Fiber
+      - name: REST + GraphQL (Apollo / gqlgen / Ariadne)
+      - name: gRPC (especially in microservices)
+
+  - category: Databases & Storage
+    tools:
+      - name: PostgreSQL
+      - name: MySQL / MariaDB
+      - name: Redis (caching, sessions, queues)
+      - name: MongoDB / DynamoDB (document / NoSQL)
+      - name: Supabase / PlanetScale / Neon (modern Postgres platforms)
+      - name: ClickHouse / DuckDB (analytics / OLAP)
+
+  - category: Cloud & Infrastructure
+    tools:
+      - name: AWS (most common) or GCP or Azure
       - name: Docker
-      - name: Kubernetes
-      - name: AWS
-      - name: Git
-      - name: CI/CD Pipelines
-      - name: Linux Systems
-      - name: Shell Scripting
+      - name: Kubernetes (or at least Docker Compose + basic k8s knowledge)
+      - name: Terraform / OpenTofu
+      - name: Serverless (AWS Lambda, Vercel, Cloudflare Workers)
+      - name: CI/CD (GitHub Actions, GitLab CI, CircleCI)
 
-  - category: Methodologies & Practices
+  - category: DevOps & Observability
     tools:
-      - name: Agile / Scrum
-      - name: TDD / jUnit
-      - name: SOLID Principles
-      - name: Code Review
-      - name: DevOps Practices
+      - name: Git
+      - name: GitHub / GitLab
+      - name: Prometheus + Grafana
+      - name: OpenTelemetry
+      - name: Sentry / Datadog / New Relic
+      - name: Logging (Loki, ELK stack, CloudWatch)
+
+  - category: Testing & Quality
+    tools:
+      - name: Jest / Vitest
+      - name: Playwright / Cypress
+      - name: Testing Library
+      - name: TDD / BDD mindset
+      - name: Property-based testing (if using Python/JS/Go/Rust)
+
+  - category: Modern Practices & Architecture
+    tools:
+      - name: Microservices
+      - name: Event-Driven Architecture
+      - name: Domain-Driven Design (DDD) basics
+      - name: Clean Architecture / Hexagonal
+      - name: API-first design
+      - name: Feature Flags
+
+  - category: AI / ML Integration
+    tools:
+      - name: Prompt engineering & LLM APIs (OpenAI, Anthropic, Grok, Gemini)
+      - name: LangChain / LlamaIndex (or equivalent)
+      - name: RAG (Retrieval-Augmented Generation)
+      - name: Vector databases (Pinecone, Weaviate, Qdrant, pgvector)
+
+  - category: Soft / Process Skills
+    tools:
+      - name: Agile / Scrum / Kanban
+      - name: GitHub Flow / Trunk-based development
+      - name: Code Review & Pair Programming
+      - name: Technical Writing & Documentation
+      - name: Mentoring / Knowledge Sharing
